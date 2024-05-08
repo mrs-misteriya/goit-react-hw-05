@@ -1,0 +1,40 @@
+/* 
+.container{
+    display: flex;
+        flex-direction: column;
+        top: 0;
+        left: 0;
+        padding: 0;
+        margin: 0;
+} */
+
+.btn{
+    padding: 8px;
+    margin-bottom: 8px;
+}
+
+.cardMovie{
+    display: flex;
+    gap: 20px;
+}
+
+
+.title{
+    display: flex;
+    gap: 8px;
+    size: 16px;
+}
+
+.genres{
+    list-style: none;
+    display: flex;
+    gap: 8px;
+    padding: 0;
+}
+
+
+.info{
+    margin: 0;
+    padding: 8px;
+    list-style: inside;
+}
